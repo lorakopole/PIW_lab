@@ -1,0 +1,37 @@
+.Desc{
+    color: rgb(0, 0, 0);
+    float: left;
+    margin: 5px;
+    padding: 2px;
+    border-color: rgb(84, 196, 134);
+    border-style:double;
+}
+.Tags{
+    color: rgb(88, 122, 111);
+    float: left;
+    margin: 5px;
+    padding: 2px;
+    border-color: rgb(84, 196, 134);
+    border-style:double;
+}
+.Subj{
+    color: rgb(223, 148, 230);
+    float: left;
+    margin: 5px;
+    padding: 2px;
+    border-color: rgb(84, 196, 134);
+    border-style:double;
+
+}
+.Box{
+    clear:both;
+    background-color: darksalmon;
+}
+.sendMail{
+    color: rgb(20, 58, 230);
+    float: left;
+    margin: 5px;
+    padding: 2px;
+    border-color: rgb(248, 6, 6);
+    border-style:double; 
+}

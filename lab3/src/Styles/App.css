@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+}
+.Search{
+ width: 25%;
+ float: right;
+margin-top: 20px;
+ padding: 10px;
+ height: 20%;
+ min-height: 100px;
+ border-color: black;
+ border-style: solid;
+ border-width: 2px;
+ padding: 10px;
+ background-color: rgb(177, 177, 187);
+}
+.RouteLinks{
+  width: 20%;
+  margin: 10px;
+ padding: 10px;
+  float: left;
+  height: 10%;
+  min-height: 100px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  background-color: rgb(206, 164, 180);
+}
+.AddBox
+{
+  min-height: 100px;
+  width: 30%;
+  margin: 10px;
+  clear: both;
+  float: left;
+  padding: 10px;
+  height: 50%;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  background-color: rgb(144, 202, 199);
+}
+.OfferBox
+{
+  overflow: scroll;
+  float: none;
+  min-height: 600px;
+  width: 63%;
+  margin: 10px;
+  padding: 20px;
+  height: 80%;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  background-color: rgb(219, 226, 179);
+}
+.navi{
+  color: brown;
+  margin: 2px;
+  background-color: azure;
+  float: left;
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+}
+.modal
+{
+  color: red;
+  size: 100px;
+  font-size: large;
+  float:right;
+  padding: 10px;
+  border: 10px;
+  border-style: solid;
+  border-color: black;
+  display: none;
+}
+
+.modal-move {
+  display: block;
+}
