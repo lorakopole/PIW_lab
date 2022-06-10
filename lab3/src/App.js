@@ -42,9 +42,15 @@ function App() {
       onClick={() => logout()}
       >wyloguj</button>
       </div>
-      <div className='data'>
-        {user.displayName}
-      </div>
+      {!user ?
+      <div className='dataBad'>
+        Nie zalogowano 
+      </div> 
+      :
+      <div className='dataGood'>
+        {user.displayName} 
+      </div> 
+      }
     </div>
 
   );

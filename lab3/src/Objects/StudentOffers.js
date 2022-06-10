@@ -1,5 +1,5 @@
 import "../Styles/Student.css";
-import { Link } from "react-router-dom";
+import { Link } from 'react-router-dom'
 class StudentOffers {
     constructor(description, tags, subjects,student)
     {

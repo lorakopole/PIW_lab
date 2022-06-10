@@ -79,3 +79,36 @@ margin-top: 20px;
 .modal-move {
   display: block;
 }
+
+.logout {
+  color: brown;
+  margin: 10px;
+  padding: 5px;
+  background-color: rgb(226, 23, 135);
+  float: left;
+  border: 5px;
+  border-style: solid;
+  border-color: black;
+}
+
+.dataGood {
+  color: rgb(0, 0, 0);
+  margin: 10px;
+  padding: 5px;
+  background-color: rgb(211, 199, 206);
+  float: left;
+  border: 10px;
+  border-style: solid;
+  border-color: rgb(0, 255, 64);
+}
+
+.dataBad {
+  color: rgb(0, 0, 0);
+  margin: 10px;
+  padding: 5px;
+  background-color: rgb(211, 199, 206);
+  float: left;
+  border: 10px;
+  border-style: solid;
+  border-color: rgb(238, 0, 0);
+}
